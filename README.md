@@ -21,3 +21,6 @@ https://support.huaweicloud.com/migration-devcloud/devcloud_migration_0010.html
 
 https://support.huaweicloud.com/reference-devcloud/devcloud_reference_040103.html
 
+https://support.huaweicloud.com/reference-devcloud/devcloud_reference_040502.html
+
+
