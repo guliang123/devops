@@ -26,4 +26,10 @@ https://support.huaweicloud.com/reference-devcloud/devcloud_reference_040502.htm
 基于 Gitlab 的 Code Review 最佳实践
 https://zhuanlan.zhihu.com/p/257857632
 
+搭建GitLab仓库
+
+https://blog.csdn.net/weixin_33924770/article/details/94193329?utm_medium=distribute.pc_relevant.none-task-blog-OPENSEARCH-12.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-OPENSEARCH-12.control
+
+
+
 
