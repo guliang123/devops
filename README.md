@@ -23,4 +23,7 @@ https://support.huaweicloud.com/reference-devcloud/devcloud_reference_040103.htm
 
 https://support.huaweicloud.com/reference-devcloud/devcloud_reference_040502.html
 
+基于 Gitlab 的 Code Review 最佳实践
+https://zhuanlan.zhihu.com/p/257857632
+
 
