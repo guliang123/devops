@@ -30,6 +30,8 @@ https://zhuanlan.zhihu.com/p/257857632
 
 https://blog.csdn.net/weixin_33924770/article/details/94193329?utm_medium=distribute.pc_relevant.none-task-blog-OPENSEARCH-12.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-OPENSEARCH-12.control
 
+Jenkins+GitLab+Docker+SpringCloud+Kubernetes实现可持续自动化微服务
+https://blog.csdn.net/zs1041126478/article/details/95304445?utm_medium=distribute.pc_relevant.none-task-blog-OPENSEARCH-19.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-OPENSEARCH-19.control
 
 
 
