@@ -10,3 +10,6 @@ https://developer.aliyun.com/article/777647?spm=a2c6h.12873581.0.0.540b8814k7smd
 https://zhuanlan.zhihu.com/p/45624725
 http://p.primeton.com/articles/5954adc54be8e64a4d000065
 
+图文讲解，团队开发中的 Git 最佳实践
+https://cloud.tencent.com/developer/article/1499524
+
