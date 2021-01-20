@@ -12,4 +12,12 @@ http://p.primeton.com/articles/5954adc54be8e64a4d000065
 
 图文讲解，团队开发中的 Git 最佳实践
 https://cloud.tencent.com/developer/article/1499524
+什么是容器交付流水线
+
+https://support.huaweicloud.com/productdesc-containerops/ops_productdesc_0001.html
+
+
+https://support.huaweicloud.com/migration-devcloud/devcloud_migration_0010.html
+
+https://support.huaweicloud.com/reference-devcloud/devcloud_reference_040103.html
 
