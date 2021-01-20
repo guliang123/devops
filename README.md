@@ -27,6 +27,8 @@ https://support.huaweicloud.com/reference-devcloud/devcloud_reference_040502.htm
 https://zhuanlan.zhihu.com/p/257857632
 
 搭建GitLab仓库
+手把手教你 GitLab 的安装及使用
+https://www.jianshu.com/p/b04356e014fa
 
 https://blog.csdn.net/weixin_33924770/article/details/94193329?utm_medium=distribute.pc_relevant.none-task-blog-OPENSEARCH-12.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-OPENSEARCH-12.control
 
