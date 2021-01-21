@@ -36,4 +36,7 @@ Jenkins+GitLab+Docker+SpringCloud+Kubernetes实现可持续自动化微服务
 https://blog.csdn.net/zs1041126478/article/details/95304445?utm_medium=distribute.pc_relevant.none-task-blog-OPENSEARCH-19.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-OPENSEARCH-19.control
 
 
+GitLab CI构建SpringBoot-2.3应用
+https://blog.csdn.net/boling_cavalry/article/details/106991691
+
 
